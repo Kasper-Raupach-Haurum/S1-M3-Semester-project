@@ -43,6 +43,29 @@ git clone https://github.com/yourusername/maternity-foundation-data-imputation.g
 - Matplotlib
 - Seaborn
 
+## Appendix:
+The list of files to be submitted for the project submission is the following:
+
+● Data_cleaning.ipynb - This jupyter lab document contains the preprocessing for the
+project and data preparation.
+
+● Feature_importance.ipynb - This jupyter lab document contains our feature importance.
+
+● Imputation_pipe_test.ipynb - This jupyter lab document contains our main data
+
+imputation, as well the output that we will base our conclusion primarily upon.
+● Imputation_prelim_EDA.ipynb - This jupyter lab document contains EDA.
+
+● Lat-Lon_reverse.ipynb - This jupyter lab document uses the user data latitude and
+longitude to find the district of the user and states.
+
+● Requirements.txt - This word text document contains the !pip installs that are required to
+run the various jupyter lab documents.
+
+● Project_Read_Me.txt - This word document contains instructions how to run the various
+jupyter lab documents, and in which order.
+
+
 ## License
 
 This project is licensed under the MIT License.
