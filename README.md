@@ -51,9 +51,8 @@ project and data preparation.
 
 ● Feature_importance.ipynb - This jupyter lab document contains our feature importance.
 
-● Imputation_pipe_test.ipynb - This jupyter lab document contains our main data
+● Imputation_pipe_test.ipynb - This jupyter lab document contains our main data imputation, as well the output that we will base our conclusion primarily upon.
 
-imputation, as well the output that we will base our conclusion primarily upon.
 ● Imputation_prelim_EDA.ipynb - This jupyter lab document contains EDA.
 
 ● Lat-Lon_reverse.ipynb - This jupyter lab document uses the user data latitude and
