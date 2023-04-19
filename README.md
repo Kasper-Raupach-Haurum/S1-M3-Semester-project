@@ -36,7 +36,7 @@ git clone https://github.com/yourusername/maternity-foundation-data-imputation.g
 
 ## Dependencies
 
-- Python 3.x
+- Python
 - Pandas
 - Numpy
 - Scikit-learn
